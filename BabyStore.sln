@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStore", "BabyStore\BabyStore.csproj", "{23E5BC15-764A-4582-8550-57CB8699659E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStore.Tests", "BabyStore.Tests\BabyStore.Tests.csproj", "{6A832891-815B-423B-BEB2-F8BCD9DCFE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E5BC15-764A-4582-8550-57CB8699659E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E5BC15-764A-4582-8550-57CB8699659E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E5BC15-764A-4582-8550-57CB8699659E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E5BC15-764A-4582-8550-57CB8699659E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A832891-815B-423B-BEB2-F8BCD9DCFE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A832891-815B-423B-BEB2-F8BCD9DCFE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A832891-815B-423B-BEB2-F8BCD9DCFE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A832891-815B-423B-BEB2-F8BCD9DCFE64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724D49B6-7A00-47E8-92A2-BA557589F129}
+	EndGlobalSection
+EndGlobal
